@@ -1,8 +1,7 @@
-### Hi there 👋,
-I'm Beno Mosko
+Hi 👋, I'm Beno Mosko
 
-<!--
-**BenoMosko/benomosko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+And i'm a Full-Stack Developer is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -14,4 +13,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
